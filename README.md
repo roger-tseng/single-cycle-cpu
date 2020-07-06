@@ -5,7 +5,7 @@ Project details are listed in [Final_Project.pdf](Final_Project.pdf)
 
 # Full List of Supported Instructions
 Our architecture supports:
-    add, sub, and, or, mul
-    addi, slti, lw, sw
+    add, sub, and, or, mul,
+    addi, slti, lw, sw,
     beq, bge, jal, jalr, 
     auipc, slli, srli, srai
